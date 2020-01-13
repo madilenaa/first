@@ -7,3 +7,9 @@ h1 h3 {
   font-family: sans-serif;
   font-color: grey;
 }
+
+p {
+  font-size: 12px;
+  font-family: sans-serif;
+  font-color: black;
+}
